@@ -2,7 +2,7 @@ const BlogPage = () => {
   return (
     <div>
       BlogPage
-      <p>something</p>
+      <p>some posts will come soon. Stay tuned!</p>
     </div>
   );
 };
